@@ -1,0 +1,4 @@
+18:58:45.025 [main] ERROR alpha.Log4jTC1 - Object is not present
+18:58:45.027 [main] FATAL alpha.Log4jTC1 - This is fatal
+18:59:03.505 [main] ERROR alpha.Log4jTC1 - Object is not present
+18:59:03.507 [main] FATAL alpha.Log4jTC1 - This is fatal

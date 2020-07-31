@@ -1,0 +1,7 @@
+18:59:51.439 [main] ERROR alpha.Log4jTC1 - Object is not present
+18:59:51.441 [main] FATAL alpha.Log4jTC1 - This is fatal
+19:01:19.801 [main] DEBUG beta.Log4jTC2 - I am debuggibng
+19:01:19.803 [main] INFO  beta.Log4jTC2 - Object is present
+19:01:19.803 [main] ERROR beta.Log4jTC2 - Object is not present
+19:01:19.803 [main] FATAL beta.Log4jTC2 - This is fatal
+19:09:18.351 [main] DEBUG udemyTC.Code_185_Log4jTC - Setting chrome driver property
